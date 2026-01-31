@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Futuristic UI Interface",
+      "imageUrl": "https://picsum.photos/seed/67/800/600",
+      "imageHint": "futuristic interface"
+    },
+    {
+      "id": "project-2",
+      "description": "Abstract 3D Motion",
+      "imageUrl": "https://picsum.photos/seed/89/800/600",
+      "imageHint": "abstract motion"
+    },
+    {
+      "id": "project-3",
+      "description": "Digital Portrait",
+      "imageUrl": "https://picsum.photos/seed/45/800/600",
+      "imageHint": "digital creator"
+    },
+    {
+      "id": "about-me",
+      "description": "Creative workspace",
+      "imageUrl": "https://picsum.photos/seed/12/1200/800",
+      "imageHint": "creative studio"
+    }
+  ]
+}
